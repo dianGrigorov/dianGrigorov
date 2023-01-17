@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on ...
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif" width="250"/>
 </div>
 <!--
 **dianGrigorov/dianGrigorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

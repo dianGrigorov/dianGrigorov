@@ -27,7 +27,13 @@
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-D.Grigorov-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dian-grigorov-27573b258/))
 
 ---
-
+  
+  ### :hammer_and_wrench: Languages and Tools :
+  
+  <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
+  </div>
 <!--
 **dianGrigorov/dianGrigorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

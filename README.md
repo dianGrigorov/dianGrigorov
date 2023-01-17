@@ -34,6 +34,14 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
   </div>
+  
+  ---
+  
+   ### :fire: My Stats :
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dianGrigorov&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianGrigorov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dianGrigorov/dianGrigorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

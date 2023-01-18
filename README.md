@@ -9,8 +9,8 @@
 </div>
    <img src="https://komarev.com/ghpvc/?username=dianGrigorov&style=flat-square&color=blue" alt=""/>
   <h1>
-  Lets do this !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ :small_blue_diamond: :large_blue_diamond: Lets do this ! :large_blue_diamond: :small_blue_diamond:
+  
 </h1>
   <div align="center">
   <img src="https://thumbs.dreamstime.com/b/binary-code-glows-5079617.jpg" width="100%" height="150"/>

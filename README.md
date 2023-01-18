@@ -46,7 +46,7 @@
   ---
  | Certificates  | Courses               |
  | ------------- | -------------         |
- | Content Cell  | C# Basics - SoftUni   |
+ | [C# Basics](https://softuni.bg/certificates/details/147632/d5505b1c)  | C# Basics - SoftUni   |
  | soon          | C# Fundamentals - SoftUni|
   | soon    | C# Advanced - SoftUni |
   | soon | C# Data Bace- SoftUni |

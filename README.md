@@ -29,7 +29,7 @@
   | Certificates  | Courses               |
   | ------------- | -------------         |
   | [:heavy_check_mark: C# Basics](https://softuni.bg/certificates/details/147632/d5505b1c)  | C# Basics - SoftUni   |
-  | :soon: soon          | C# Fundamentals - SoftUni|
+  | :soon: in progress          | C# Fundamentals - SoftUni|
   | :soon: soon    | C# Advanced - SoftUni |
   | :soon: soon | C# Data Bace- SoftUni |
   | :soon: soon | C# Web |

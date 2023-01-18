@@ -44,14 +44,14 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianGrigorov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
- | Certificates  | Courses               |
- | ------------- | -------------         |
- | [C# Basics](https://softuni.bg/certificates/details/147632/d5505b1c)  | C# Basics - SoftUni   |
- | soon          | C# Fundamentals - SoftUni|
-  | soon    | C# Advanced - SoftUni |
-  | soon | C# Data Bace- SoftUni |
-  | soon | C# Web |
-  | soon | JS Front - end |
+  | Certificates  | Courses               |
+  | ------------- | -------------         |
+  | [:heavy_check_mark: C# Basics](https://softuni.bg/certificates/details/147632/d5505b1c)  | C# Basics - SoftUni   |
+  | :soon: soon          | C# Fundamentals - SoftUni|
+  | :soon: soon    | C# Advanced - SoftUni |
+  | :soon: soon | C# Data Bace- SoftUni |
+  | :soon: soon | C# Web |
+  | :soon: soon | JS Front - end |
 <!--
 **dianGrigorov/dianGrigorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

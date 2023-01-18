@@ -20,7 +20,7 @@
   
 ### :technologist: About Me :
   
-:telescope:I study software engineering in SoftUni.
+:telescope:I'm studying software engineering in SoftUni.
   
 :zap: In my free time, I like to go fishing and bike riding.
   

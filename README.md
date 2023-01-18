@@ -47,7 +47,11 @@
  | Certificates  | Courses               |
  | ------------- | -------------         |
  | Content Cell  | C# Basics - SoftUni   |
- | soon          | C# Fundamentals-SoftUni|
+ | soon          | C# Fundamentals - SoftUni|
+  | soon    | C# Advanced - SoftUni |
+  | soon | C# Data Bace- SoftUni |
+  | soon | C# Web |
+  | soon | JS Front - end |
 <!--
 **dianGrigorov/dianGrigorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

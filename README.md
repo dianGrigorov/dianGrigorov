@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
-  <img src="https://thumbs.dreamstime.com/b/binary-code-glows-5079617.jpg" width="100%" height="250"/>
+  <img src="https://thumbs.dreamstime.com/b/binary-code-glows-5079617.jpg" width="100%" height="150"/>
 </div>
   
 ---

@@ -24,7 +24,7 @@
   
 :zap: In my free time, I like to go fishing and bike riding.
   
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-D.Grigorov-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dian-grigorov-27573b258/))
+
 
   | Certificates  | Courses               |
   | ------------- | -------------         |

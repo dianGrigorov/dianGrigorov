@@ -32,8 +32,8 @@
   | :soon: in progress          | C# Fundamentals - SoftUni|
   | :soon: soon    | C# Advanced - SoftUni |
   | :soon: soon | C# Data Bace- SoftUni |
-  | :soon: soon | C# Web |
-  | :soon: soon | JS Front - end |
+  | :soon: soon | C# Web - SoftUni |
+  | :soon: soon | JS Front - end - SoftUni |
 ---
   
   ### :hammer_and_wrench: Languages and Tools :

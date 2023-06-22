@@ -13,7 +13,7 @@
   
 </h1>
   <div align="center">
-  <img src="https://thumbs.dreamstime.com/b/binary-code-glows-5079617.jpg" width="100%" height="150"/>
+ 
 </div>
   
 ---
@@ -26,14 +26,13 @@
   
 
 
-  | Certificates  | Courses               |
-  | ------------- | -------------         |
-  | [:heavy_check_mark: C# Basics](https://softuni.bg/certificates/details/147632/d5505b1c)  | C# Basics - SoftUni   |
-  | [:heavy_check_mark: C# Fundamentals](https://softuni.bg/certificates/details/166689/3d01562e) | C# Fundamentals - SoftUni|
-  | :soon: in progress           | C# Advanced - SoftUni |
-  | :soon: soon | C# Data Bace- SoftUni |
-  | :soon: soon | C# Web - SoftUni |
-  | :soon: soon | JS Front - end - SoftUni |
+  | Certificates  | Courses               | Certificates  | Courses               |
+  | ------------- | -------------         | ------------- | -------------         |
+  | [:heavy_check_mark: C# Basics](https://softuni.bg/certificates/details/147632/d5505b1c)  | C# Basics - SoftUni   | [:heavy_check_mark: C# Fundamentals](https://softuni.bg/certificates/details/166689/3d01562e) | C# Fundamentals - SoftUni|
+  | [:heavy_check_mark: C# Advan](https://softuni.bg/certificates/details/173524/bb631f35) | C# Advanced - SoftUni | :soon: in progress           | C# OOP - SoftUni |
+  | :soon: soon | MY SQL - SoftUni | :soon: soon | ENITY FRAMEWIRK - SoftUni |
+  | :soon: soon | ASP.NET Fundamentals-SoftUni | :soon: soon | ASP.NET Advanced - SoftUni |
+  | :soon: soon | HTML & CSS | :soon: soon | JS Front - End - SoftUni |
 ---
   
   ### :hammer_and_wrench: Languages and Tools :

@@ -17,8 +17,7 @@
 </div>
   
 ---
-  
-### :technologist: About Me :
+About Me :
   
 :telescope:I'm studying software engineering in SoftUni.
   
@@ -28,25 +27,24 @@
 
   | Certificates  | Courses               | Certificates  | Courses               |
   | ------------- | -------------         | ------------- | -------------         |
-  | [:heavy_check_mark: C# Basics](https://softuni.bg/certificates/details/147632/d5505b1c)  | C# Basics - SoftUni   | [:heavy_check_mark: C# Fundamentals](https://softuni.bg/certificates/details/166689/3d01562e) | C# Fundamentals - SoftUni|
-  | [:heavy_check_mark: C# Advan](https://softuni.bg/certificates/details/173524/bb631f35) | C# Advanced - SoftUni | :soon: in progress           | C# OOP - SoftUni |
-  | :soon: soon | MY SQL - SoftUni | :soon: soon | ENITY FRAMEWIRK - SoftUni |
-  | :soon: soon | ASP.NET Fundamentals-SoftUni | :soon: soon | ASP.NET Advanced - SoftUni |
-  | :soon: soon | HTML & CSS | :soon: soon | JS Front - End - SoftUni |
----
+
+
   
-  ### :hammer_and_wrench: Languages and Tools :
-  
-  <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
-  </div>
-  
-  ---
-  
-   ### :fire: My Stats :
+ My Stats :
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dianGrigorov&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  ---
+ Languages and Tools :
+
+  <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
+    </div>
+  
+  ---
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianGrigorov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   

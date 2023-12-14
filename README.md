@@ -41,6 +41,7 @@ About Me :
      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="C#" alt="C#" width="80" height="80"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="VS" alt="VS" width="80" height="80"/>&nbsp;
     </div>
   

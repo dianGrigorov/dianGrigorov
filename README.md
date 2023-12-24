@@ -8,11 +8,7 @@
 </div>
    <img src="https://komarev.com/ghpvc/?username=dianGrigorov&style=flat-square&color=blue" alt=""/>
   
-  ---
-  
   <h1>btw i can make web apps and that's it 😎 </h1>
-  
-  ---
   
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="60" height="60"/>&nbsp;
@@ -30,8 +26,6 @@
   ---
  Languages and Tools :
 
-
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianGrigorov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ---

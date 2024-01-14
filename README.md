@@ -12,7 +12,7 @@
   
 ---
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianGrigorov&layout=donut-vertical&theme=tokyonight&hide=c%23&border_radius=20&border_color=70A5FD)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=dianGrigorov&theme=tokyonight&border_radius=20&date_format=n%2Fj%5B%2FY%5D&card_width=400&border=70A5FD)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianGrigorov&layout=donut-vertical&theme=tokyonight&border_radius=20&border_color=70A5FD)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=dianGrigorov&theme=tokyonight&border_radius=20&date_format=n%2Fj%5B%2FY%5D&card_width=400&border=70A5FD)](https://git.io/streak-stats)
 
 <h2>btw i can make web apps and that's it 😎 </h2>
  
@@ -23,7 +23,7 @@
 
 <!--
 **dianGrigorov/dianGrigorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+hide = &hide=c%23
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
